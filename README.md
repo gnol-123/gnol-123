@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&duration=2800&pause=1200&color=F0506E&center=true&vCenter=true&width=560&height=40&lines=I%27m+Senglong%2C+CS+student+at+RMIT;I+build+agentic+AI+tools+and+RAG+systems;Melbourne+based%2C+open+to+SWE+internships" alt="I'm Senglong, CS student at RMIT">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&duration=2800&pause=1200&color=F0506E&center=true&vCenter=true&width=560&height=40&lines=Hi%2C+I%27m+Senglong;I+build+agentic+AI+tools+and+systems;Melbourne+based" alt="Hi, I'm Senglong. I build agentic AI tools and systems. Melbourne based.">
 </p>
 
 <br>
